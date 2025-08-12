@@ -19,8 +19,6 @@
 - 🔭 Currently building a **personal website**, a **finance tracker app**, and… tackling a **ton of UoA assignments** (send coffee ☕).
 - 💬 I care about **efficiency**—in code *and* communication.
 
-> I like problems that waste people’s time. Then I make them… not.
-
 ---
 
 ## 🌟 Featured Projects
