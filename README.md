@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm **Leona (Shiyun) Lu**
 
-✨ From finance & law ➜ full-stack dev.  From Shanghai, China ➜ Auckland, New Zealand.  
+✨ From finance & law ➜ full-stack dev.  ✨From Shanghai, China ➜ Auckland, New Zealand.  
 🛠️ MERN • Svelte • Java • SQL  
 🌏 Auckland, New Zealand · Open to **intern/grad roles**
 
