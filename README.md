@@ -4,7 +4,7 @@
 
 ✨ From finance & law ➜ full-stack dev.  
 ✨ From Shanghai, China ➜ Auckland, New Zealand.  
-🛠️ MERN • Svelte • Java • SQL  
+🛠️ React • Svelte • Java • TypeScript • SQL • PostgreSQL  
 🌏 Auckland, New Zealand · Open to **intern/grad roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leona%20Lu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leona-lu-rcd508/)  
