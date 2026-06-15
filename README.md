@@ -19,7 +19,7 @@
 - 🎓 Graduated with a Master of Information Technology from the **University of Auckland** (Mar 2026).
 - 💻 Full-stack developer with experience building web applications using JavaScript, React, Node.js, Express, PostgreSQL, MongoDB, and AI-powered services.
 - 📈 Previously worked in finance and risk control, bringing a strong analytical and problem-solving mindset to software development.
-- 💬 I care about **efficiency**—in code *and* communication.
+- 💬 I value efficient communication, reliable delivery, and eliminating unnecessary complexity through technology.
 
 ---
 
