@@ -16,7 +16,8 @@
 ---
 
 ## About Me
-- 🌱 Master of Information Technology student at the **University of Auckland**,  graduated in Mar 2026.
+- 🎓 Graduated with a Master of Information Technology from the **University of Auckland** (Mar 2026).
+- 💻 Full-stack developer with experience building web applications using JavaScript, React, Node.js, Express, PostgreSQL, MongoDB, and AI-powered services.
 - 💬 I care about **efficiency**—in code *and* communication.
 
 ---
@@ -78,8 +79,8 @@
 
 ### 个人介绍
 - 你好，我是 **Leona 卢诗芸**
-- 从金融/法律转到全栈开发，从上海来到奥克兰，现在在奥克兰大学读 **Master of IT**
-- 正在做个人网站、记账应用，也在和奥大的海量作业作斗争 😅
+- 从金融/法律转到全栈开发，从上海来到奥克兰，刚刚从奥克兰大学 **Master of IT** 毕业
+- 正在寻找全职开发工作
 - 追求高效沟通与可靠交付，喜欢精简繁琐流程
 - 欢迎联系
 
