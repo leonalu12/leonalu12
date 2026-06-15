@@ -24,7 +24,9 @@
 ## 🌟 Featured Projects
 
 <p>
-  
+  <a href="https://github.com/leonalu12/AICashFlow-personal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonalu12&repo=AICashFlow-personal&theme=default&border_color=ddd" alt="AI CashFlow"/>
+  </a>
   <a href="https://github.com/leonalu12/collaborative-blackout-poetry">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonalu12&repo=collaborative-blackout-poetry&theme=default&border_color=ddd" alt="Blackout Poetry"/>
   </a>
