@@ -16,8 +16,7 @@
 ---
 
 ## About Me
-- 🌱 Master of Information Technology student at the **University of Auckland**, will graduate in Feb 2026.
-- 🔭 Currently building a **personal website**, a **finance tracker app**, and… tackling a **ton of UoA assignments** (send coffee ☕).
+- 🌱 Master of Information Technology student at the **University of Auckland**,  graduated in Mar 2026.
 - 💬 I care about **efficiency**—in code *and* communication.
 
 ---
@@ -25,6 +24,7 @@
 ## 🌟 Featured Projects
 
 <p>
+  
   <a href="https://github.com/leonalu12/collaborative-blackout-poetry">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonalu12&repo=collaborative-blackout-poetry&theme=default&border_color=ddd" alt="Blackout Poetry"/>
   </a>
@@ -44,10 +44,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
 
 **Data & Auth**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000?logo=jsonwebtokens)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000?logo=jsonwebtokens) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 **Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 
 ---
 
