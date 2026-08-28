@@ -57,7 +57,7 @@
 ---
 
 ## ⚡ Fun Facts
-- 👯 Introvert who thrives in teams; authentic and big on deep friendships.
+- 👯 Thrives in teams; being authentic and big on deep friendships.
 - ⚡ Previously worked in **finance/legal operations** in **Shanghai, China**.
 - 🎮 Games I love: **Stardew Valley**, **Project Hospital**, **The Sims 3**, **The Legend of Zelda: Breath of the Wild**, .etc
 - 🐶 Also into **dogs**, **nature**, and **fantasy novels** - and yes, I’m great at having a good time solo 😄.
