@@ -52,15 +52,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 **Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-
----
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonalu12&layout=compact&border_color=ddd" alt="Top languages"/>
-</p>
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
 
